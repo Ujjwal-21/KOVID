@@ -18,13 +18,13 @@ One of the most popular college resturant in the capital, CU resturant enjoys a 
 /175926121-69525b05-2216-4688-b1ac-d3b8269998da.png)
 
 
-# About page :
+# About Page :
 
 ![Screenshot 2022-06-27 at 4 18 31 PM](https://user-images.githubusercontent.com/88342385/175926721-9af9874f-7d22-4eb4-a846-e406f109b6a8.png)
 
-# Gallery 
+# Service Page : 
 
-![WhatsApp Image 2022-05-20 at 7 32 08 PM](https://user-images.githubusercontent.com/85225156/169544732-8143db5d-ae9f-4023-a7d8-270f0c492c14.jpeg)
+![Screenshot 2022-06-27 at 4 32 03 PM](https://user-images.githubusercontent.com/88342385/175927010-368db063-1fd2-4a42-acab-69142a184c9d.png)
 
 
 # Chef

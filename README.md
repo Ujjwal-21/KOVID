@@ -7,7 +7,10 @@ https://happy-glacier-05ff15010.1.azurestaticapps.net
 
 #  KOVID HEALTH INFORMATION CENTRE 
 
-One of the most popular college resturant in the capital, CU resturant enjoys a large hall that can accommodate more than 150 students at a given time. Famous for its a huge egg-shaped snack in a bread jacket with lots of stuffing. Apart from the famed chops, the menu includes chicken pakora, chicken stew or chicken curry, roti, dalpuri, alu dum, ghooghni, noodles, burgers, biscuits and cakes from Monginis, and of course tea, coffee , aerated drinks, samosas and spring rolls at a reasonably low price, the canteen serves as a perfect adda for enthusiasts. CU resturant , located in mohali chnadigarh, has an exceptionally huge campus, stretching across an area of more than 200 acres. But it is the only resturant that is considered the favourite hangout zone by students. A wide variety of food is in the offering at the lowest rates and keeps student pretty pleased.
+KOVID HEALTH INFORMATION is one of the most popular health information centre which basically focus on COVID related information like active cases , deaths etc.
+It also provides services like vaccination, check up, treatment etc.
+To make that easy for customers a website is built from where they can get any information like covid cases statistics, which services are available and many more.
+If then also they have some doubts then a chatbot is available for 24 X 7 hours. Just go to ‘Chat with Us’ and write question , chatbot will provide answer related to it.
 
 # Landing page : 
 

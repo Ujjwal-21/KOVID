@@ -29,7 +29,8 @@ One of the most popular college resturant in the capital, CU resturant enjoys a 
 # Chat With Us (Chatbot) Page :
 
 ![Screenshot 2022-06-27 at 4 34 33 PM](https://user-images.githubusercontent.com/88342385/175927465-c0f6c915-1117-4bf4-8b75-6f62f748461f.png)
-
+![Screenshot 2022-06-27 at 4 47 37 PM](https://user-images.githubusercontent.com/88342385/175930132-5b0f4824-f4b8-4714-bb05-d0c98db0f7d8.png)
+![Screenshot 2022-06-27 at 4 49 29 PM](https://user-images.githubusercontent.com/88342385/175930163-c15ded85-91b2-435b-a09d-b2be3cc0ab4c.png)
 
 # Contact Page 
 

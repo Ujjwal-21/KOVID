@@ -7,11 +7,19 @@ https://happy-glacier-05ff15010.1.azurestaticapps.net
 
 #  KOVID HEALTH INFORMATION CENTRE 
 
-KOVID HEALTH INFORMATION is one of the most popular health information centre which basically focus on COVID related information like active cases , deaths etc.
-It also provides services like vaccination, check up, treatment etc.
-To make that easy for customers a website is built from where they can get any information like covid cases statistics, which services are available and many more.
-If then also they have some doubts then a chatbot is available for 24 X 7 hours. Just go to ‘Chat with Us’ and write question , chatbot will provide answer related to it.
+KOVID HEALTH INFORMATION is one of the most popular health information centre which basically focus on COVID related information like active cases , deaths etc.<br>
+It also provides services like vaccination, check up, treatment etc.<br>
+To make that easy for customers a website is built from where they can get any information like covid cases statistics, which services are available and many more.<br>
+If then also they have some doubts then a chatbot is available for 24 X 7 hours. Just go to ‘Chat with Us’ and write question , chatbot will provide answer related to it.<br>
 
+## Languages And Services Used:
+
+ - [HTML]
+ - [CSS]
+ - [JAVA SCRIPT]
+ - [AZURE STATIC WEB APP]
+ - [AZURE QnA SERVICE]
+ - [AZURE COGNITIVE SERVICE]
 # Landing page : 
 
 ![Screenshot 2022-06-27 at 4 17 39 PM](https://user-images.githubusercontent.com/88342385/175924789-9f6696e6-7337-43ef-8625-98ae245c3c55.png)

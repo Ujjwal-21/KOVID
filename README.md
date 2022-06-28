@@ -20,7 +20,7 @@ If then also they have some doubts then a chatbot is available for 24 X 7 hours.
  - [AZURE STATIC WEB APP]
  - [AZURE QnA SERVICE]
  - [AZURE COGNITIVE SERVICE]
-# Landing page : 
+# Home page : 
 
 ![Screenshot 2022-06-27 at 4 17 39 PM](https://user-images.githubusercontent.com/88342385/175924789-9f6696e6-7337-43ef-8625-98ae245c3c55.png)
 ![Screenshot 2022-06-27 at 4 17 55 PM](https://user-images.githubusercontent.com/88342385/175926073-4660aa91-9fc3-4a28-b5ff-b5235fc92306.png)
@@ -49,7 +49,7 @@ If then also they have some doubts then a chatbot is available for 24 X 7 hours.
 # U CAN CHECK THE VIDEO FOR THIS PROJECT BY CLICKING ON THE LINK BELOW
 <br>
 
-# [Project video](https://youtu.be/AnqDyx7UWPk)
+# [Project video](https://www.youtube.com/watch?v=QvtYK93Mr_U)
 
 <br>
 
